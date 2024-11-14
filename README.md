@@ -1,6 +1,3 @@
-Here's an expanded description with a detailed breakdown of the tools, features, and methods used in creating your Netflix UI replica in Figma:
-
----
 
 # Netflix UI Replica - Figma Project
 
